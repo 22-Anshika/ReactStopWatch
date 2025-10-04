@@ -1,0 +1,24 @@
+body{
+  background-color: #2f2f2f;
+  color: #f44b4b;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button{
+  background-color: #141313;
+  color: #f44b4b;
+  height: 1.79rem;
+  width: 4.3rem;
+  border-radius: 10px;
+  border-color: #0f0e0e;
+
+}
+
+
+
+
+
